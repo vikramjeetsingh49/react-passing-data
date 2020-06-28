@@ -1,0 +1,2 @@
+node_modules/
+src/.DS_Storeecho .DS_Store >> .gitignore.DS_Store
